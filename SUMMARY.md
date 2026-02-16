@@ -63,6 +63,7 @@
 - [02-游戏主循环](engine/02-game-loop.md)
 - [03-画布与坐标系统](engine/03-canvas-coordinates.md)
 - [04-瓦片地图系统](engine/04-tilemap.md)
+- [瓦片地图类型详解](engine/tilemap-types.md)
 - [05-精灵与动画](engine/05-sprite-animation.md)
 - [06-游戏对象系统](engine/06-game-objects.md)
 - [07-碰撞检测](engine/07-collision.md)
