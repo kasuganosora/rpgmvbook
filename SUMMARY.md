@@ -75,3 +75,5 @@
 - [13-物品与背包](engine/13-inventory.md)
 - [14-战斗系统](engine/14-battle.md)
 - [15-存档系统](engine/15-save-load.md)
+- [瓦片地图类型详解](engine/tilemap-types.md)
+- [扩展为MMO多人在线游戏](engine/mmo-guide.md)
