@@ -76,4 +76,12 @@
 - [14-战斗系统](engine/14-battle.md)
 - [15-存档系统](engine/15-save-load.md)
 - [瓦片地图类型详解](engine/tilemap-types.md)
-- [扩展为MMO多人在线游戏](engine/mmo-guide.md)
+
+### 扩展为 MMO 多人在线游戏
+- [概述与学习路线](engine/mmo/README.md)
+- [网络基础](engine/mmo/01-network-basics.md)
+- [服务器架构](engine/mmo/02-server-architecture.md)
+- [数据同步](engine/mmo/03-data-sync.md)
+- [数据库设计](engine/mmo/04-database.md)
+- [安全性](engine/mmo/05-security.md)
+- [实战案例](engine/mmo/06-practice.md)
