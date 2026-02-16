@@ -36,6 +36,9 @@
 - [Sprite_Character - 角色精灵](sprites/sprite-character.md)
 - [Spriteset_Map - 地图精灵集](sprites/spriteset-map.md)
 
+## UI 系统（重点）
+- [UI 组件体系与渲染原理](ui/README.md)
+
 ## 窗口系统
 - [Window_Base - 窗口基类](windows/window-base.md)
 - [Window_Selectable - 可选择窗口](windows/window-selectable.md)
