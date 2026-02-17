@@ -85,3 +85,12 @@
 - [数据库设计](engine/mmo/04-database.md)
 - [安全性](engine/mmo/05-security.md)
 - [实战案例](engine/mmo/06-practice.md)
+
+### 游戏 AI 系统
+- [概述与学习路线](engine/ai/README.md)
+- [AI 基础概念](engine/ai/01-basics.md)
+- [状态机 AI](engine/ai/02-state-machine.md)
+- [行为树 AI](engine/ai/03-behavior-tree.md)
+- [寻路算法](engine/ai/04-pathfinding.md)
+- [敌人 AI](engine/ai/05-enemy-ai.md)
+- [NPC AI](engine/ai/06-npc-ai.md)
